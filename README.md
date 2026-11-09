@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-sinha/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=punamsinha2801@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-F3E8FF?style=for-the-badge&logo=readme&logoColor=7C3AED&labelColor=F3E8FF)](https://drive.google.com/file/d/1nag8Y4elBkuLy4sMP8M3U24Sh9EdpV49/view?usp=sharing)
+[![Resume](https://drive.google.com/file/d/1rkf7wiGob3E7vCAx5Xn0tYceH0FIPm2J/view?usp=sharing)](https://drive.google.com/file/d/1nag8Y4elBkuLy4sMP8M3U24Sh9EdpV49/view?usp=sharing)
 </div>
 
 <div align="center">
