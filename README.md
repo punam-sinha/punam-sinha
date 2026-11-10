@@ -1,113 +1,143 @@
-<div align="center" >
-  
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Punam%20Sinha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI-%20ML" width="100%"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:8B0000,100:E50914&height=240&section=header&text=Punam%20Sinha&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descSize=20&descAlignY=62" width="100%"/>
 
-
-</p>
-
-
-### 🚀 B.Tech AIDS 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | AI & ML
-
-</div>
-
-<div align = "center">
-  
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-%2300c749.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Sarvesh's Portfolio" />
+<a href="https://github.com/punam-sinha">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=B.Tech+in+AI+%26+Data+Science;Building+Intelligent+Solutions;Python+%7C+ML+%7C+Data+Analytics;Quietly+Building%2C+Loudly+Winning" alt="Typing SVG" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-sinha/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=punamsinha2801@gmail.com)
-[![Resume](https://drive.google.com/file/d/1rkf7wiGob3E7vCAx5Xn0tYceH0FIPm2J/view?usp=sharing)](https://drive.google.com/file/d/1nag8Y4elBkuLy4sMP8M3U24Sh9EdpV49/view?usp=sharing)
+<br/><br/>
+
+<a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-E50914?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/punam-sinha/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-E50914?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=punamsinha2801@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email" />
+</a>
+<a href="https://drive.google.com/file/d/1nag8Y4elBkuLy4sMP8M3U24Sh9EdpV49/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/RESUME-E50914?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d0d0d" alt="Resume" />
+</a>
+
 </div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=3" width="100%"/>
+
 <div align="center">
-  
-##  About Me...
+
+## 👩‍💻 About Me
+
 </div>
 
 ```javascript
 const Punam = {
-    location: "Nashik,India",
-    education: "B.Tech in AI & DS",
-    core: ["AI & ML"],
+    location: "Nashik, India",
+    education: "B.Tech in Artificial Intelligence & Data Science",
+    focus: ["Artificial Intelligence", "Machine Learning"],
     currentlyLearning: ["AI/ML"],
     techStack: ["Python", "PostgreSQL", "Excel", "Power BI"],
+    mindset: "Quietly Building, Loudly Winning",
 };
 ```
-# 💻 Tech Stack:
 
-<table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=3" width="100%"/>
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+</div>
+
+<table align="center">
   <tr>
     <th>Category</th>
     <th>Technologies</th>
   </tr>
   <tr>
-    <td>Core AI/ML Tools</td>
+    <td><b>Core Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/Python-E50914?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d" alt="Python">
+      <img src="https://img.shields.io/badge/C-E50914?style=for-the-badge&logo=c&logoColor=white&labelColor=0d0d0d" alt="C">
+      <img src="https://img.shields.io/badge/C++-E50914?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d0d0d" alt="C++">
+      <img src="https://img.shields.io/badge/HTML-E50914?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d" alt="HTML">
     </td>
   </tr>
   <tr>
-    <td>Visualization and Simulations</td>
+    <td><b>Visualization</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-      <img src="https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+      <img src="https://img.shields.io/badge/Plotly-E50914?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d0d0d" alt="Plotly">
+      <img src="https://img.shields.io/badge/Matplotlib-E50914?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-E50914?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d" alt="Seaborn">
     </td>
   </tr>
   <tr>
-    <td>Data Analysis Tools</td>
+    <td><b>Data Analysis</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=OFFICIAL_EXCEL_ICON">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-    </td>
-  </tr>
-    <td>Development</td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI">
-      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Excel-E50914?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d0d0d" alt="Excel">
+      <img src="https://img.shields.io/badge/Power_BI-E50914?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0d0d0d" alt="Power BI">
     </td>
   </tr>
   <tr>
-    <td>Collaboration and Deployment</td>
+    <td><b>Development</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/Render-%2300C7B7.svg?style=for-the-badge&logo=Render&logoColor=white" alt="Render">
-      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/PostgreSQL-E50914?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d0d0d" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/FastAPI-E50914?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d0d0d" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Docker-E50914?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d0d" alt="Docker">
     </td>
   </tr>
   <tr>
-    <td>Other Tools..</td>
+    <td><b>Collaboration & Deployment</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
-      <img src="https://img.shields.io/badge/AI%20Tools-%2300A98F.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="AI Tools (ChatGPT, Gemini, Claude)">
+      <img src="https://img.shields.io/badge/Git-E50914?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="GitHub">
+      <img src="https://img.shields.io/badge/Render-E50914?style=for-the-badge&logo=render&logoColor=white&labelColor=0d0d0d" alt="Render">
+      <img src="https://img.shields.io/badge/Vercel-E50914?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="Vercel">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Other Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-E50914?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d0d0d" alt="Postman">
+      <img src="https://img.shields.io/badge/AI_Tools-E50914?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0d0d" alt="AI Tools (ChatGPT, Gemini, Claude)">
     </td>
   </tr>
 </table>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=3" width="100%"/>
 
 <div align="center">
 
-## 💭 Quote of the Day....
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1A1A1A,100:2C3E50&text=Quietly%20Building%20,%20Loudly%20Winning&fontSize=24&fontColor=FFD700&animation=twinkling" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=E50914&icon_color=E50914&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=E50914&text_color=ffffff" />
 
-> ### 🙏 Trust God's Timing....
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d0d0d&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" />
 
+</div>
 
-Thanks for visiting! Feel free to explore my repositories and connect with me!!!
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=3" width="100%"/>
 
+<div align="center">
+
+## 💭 Quote of the Day
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:8B0000&text=Quietly%20Building%2C%20Loudly%20Winning&fontSize=26&fontColor=E50914&animation=twinkling" />
+
+> ### 🙏 Trust God's Timing
+
+<br/>
+
+Thanks for visiting! Feel free to explore my repositories and connect with me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:E50914&height=120&section=footer" width="100%"/>
 
 </div>
