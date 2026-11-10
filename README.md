@@ -20,29 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-sinha/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=punamsinha2801@gmail.com)
-[![Resume](<div align="center" >
-  
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Punam%20Sinha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI-%20ML" width="100%"/>
-
-
-
-</p>
-
-
-### 🚀 B.Tech AIDS 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | AI & ML
-
-</div>
-
-<div align = "center">
-  
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-%2300c749.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Sarvesh's Portfolio" />
-</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-sinha/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=punamsinha2801@gmail.com)
-[![Resume](https://drive.google.com/file/d/1rkf7wiGob3E7vCAx5Xn0tYceH0FIPm2J/view?usp=sharing)](https://drive.google.com/file/d/1nag8Y4elBkuLy4sMP8M3U24Sh9EdpV49/view?usp=sharing)
+[![Resume](https://drive.google.com/file/d/1NFrGBBVIinOvq1Yg1dSSsiPFAIoh78V_/view?usp=sharing)
 </div>
 
 <div align="center">
@@ -132,4 +110,4 @@ const Punam = {
 Thanks for visiting! Feel free to explore my repositories and connect with me!!!
 
 
-</div>)
+</div>
