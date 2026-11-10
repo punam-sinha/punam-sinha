@@ -20,7 +20,119 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-sinha/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=punamsinha2801@gmail.com)
+[![Resume](<div align="center" >
+  
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Punam%20Sinha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI-%20ML" width="100%"/>
+
+
+
+</p>
+
+
+### 🚀 B.Tech AIDS 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | AI & ML
+
+</div>
+
+<div align = "center">
+  
+ <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-%2300c749.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Sarvesh's Portfolio" />
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-sinha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=punamsinha2801@gmail.com)
 [![Resume](https://drive.google.com/file/d/1rkf7wiGob3E7vCAx5Xn0tYceH0FIPm2J/view?usp=sharing)](https://drive.google.com/file/d/1nag8Y4elBkuLy4sMP8M3U24Sh9EdpV49/view?usp=sharing)
+</div>
+
+<div align="center">
+  
+##  About Me...
+</div>
+
+```javascript
+const Punam = {
+    location: "Nashik,India",
+    education: "B.Tech in AI & DS",
+    core: ["AI & ML"],
+    currentlyLearning: ["AI/ML"],
+    techStack: ["Python", "PostgreSQL", "Excel", "Power BI"],
+};
+```
+# 💻 Tech Stack:
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Core AI/ML Tools</td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    </td>
+  </tr>
+  <tr>
+    <td>Visualization and Simulations</td>
+    <td>
+      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+    </td>
+  </tr>
+  <tr>
+    <td>Data Analysis Tools</td>
+    <td>
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=OFFICIAL_EXCEL_ICON">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+    </td>
+  </tr>
+    <td>Development</td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td>Collaboration and Deployment</td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Render-%2300C7B7.svg?style=for-the-badge&logo=Render&logoColor=white" alt="Render">
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
+    </td>
+  </tr>
+  <tr>
+    <td>Other Tools..</td>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+      <img src="https://img.shields.io/badge/AI%20Tools-%2300A98F.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="AI Tools (ChatGPT, Gemini, Claude)">
+    </td>
+  </tr>
+</table>
+
+
+<div align="center">
+
+## 💭 Quote of the Day....
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1A1A1A,100:2C3E50&text=Quietly%20Building%20,%20Loudly%20Winning&fontSize=24&fontColor=FFD700&animation=twinkling" />
+</p>
+
+> ### 🙏 Trust God's Timing....
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+
+Thanks for visiting! Feel free to explore my repositories and connect with me!!!
+
+
+</div>)
 </div>
 
 <div align="center">
